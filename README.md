@@ -54,8 +54,9 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 **Sprint 5**
 
 
+## :herb: Data Model
 
-## :herb: Interface screenshots 
+## :herb: Interface Screenshots 
 
 
 ## :love_letter: Assessment 
