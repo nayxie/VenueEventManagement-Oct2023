@@ -75,7 +75,7 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 
 ## :earth_asia: Data Model
 
-![Untitled](https://github.com/nayxie/venue-event-management/assets/132120896/f8aa7f61-4e25-405a-a78c-64327b0b8ec9)
+![Untitled](https://github.com/nayxie/venue-event-management/assets/132120896/4d5e753b-b731-4433-a68f-aa2d20059853)
 
 ## :rainbow: UI Screenshots 
 
