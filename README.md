@@ -79,13 +79,13 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 
 ## :rainbow: UI Screenshots 
 
-<img width="816" alt="screenshot 1" src="https://github.com/nayxie/venue-event-management/assets/132120896/22b1998f-cf45-4921-9d10-6a4b67fc1a71">
+<img width="816" alt="screenshot 1" src="https://github.com/nayxie/venue-event-management/assets/132120896/eb8c91a9-5b6b-4ef4-95d6-4bc0a9e3f821">
 
-<img width="816" alt="screenshot 2" src="https://github.com/nayxie/venue-event-management/assets/132120896/9abab76a-13c7-4178-8de7-c9e6f9f68f63">
+<img width="816" alt="screenshot 2" src="https://github.com/nayxie/venue-event-management/assets/132120896/08b38b0a-28a5-40be-bca4-311bcfbd4f4d">
 
-<img width="816" alt="screenshot 3" src="https://github.com/nayxie/venue-event-management/assets/132120896/0c4cb22e-44ff-427e-8f94-fe347a7b2989">
+<img width="816" alt="screenshot 3" src="https://github.com/nayxie/venue-event-management/assets/132120896/51c6493b-5930-496b-9ac9-108eb1dc1eb1">
 
-<img width="816" alt="screenshot 4" src="https://github.com/nayxie/venue-event-management/assets/132120896/4b399d1d-c8d8-4c4b-856f-8758500ab6f8">
+<img width="816" alt="screenshot 4" src="https://github.com/nayxie/venue-event-management/assets/132120896/1523deac-a1d2-4420-81a4-7367e6abe140">
 
 ## :pencil2: Assessment 
 
