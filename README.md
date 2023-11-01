@@ -6,7 +6,7 @@ The project entailed the development of a `full-stack web application` that util
 
 I was the `product owner` for this project, and throughtout most of the sprints assumed the role of scrum master.
 
-## :zap: Functionalities
+## :tada: Functionalities
 
 **Guest features** 
 - View venue list and venue/space details
@@ -39,7 +39,7 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 - Generate financial report: view total revenue by month and year, select venue and view their individual revenue 
 - Generate popularity report: view reports about the most popular venues and spaces
 
-## :blue_heart: My Contribution
+## :gift_heart: My Contribution
 
 **Planning**
 - Completed first draft of all user stories and acceptance criteria
@@ -77,7 +77,7 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 
 ![Untitled](https://github.com/nayxie/venue-event-management/assets/132120896/f8aa7f61-4e25-405a-a78c-64327b0b8ec9)
 
-## :art: UI Screenshots 
+## :rainbow: UI Screenshots 
 
 <img width="816" alt="screenshot 1" src="https://github.com/nayxie/venue-event-management/assets/132120896/22b1998f-cf45-4921-9d10-6a4b67fc1a71">
 
@@ -87,7 +87,7 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 
 <img width="816" alt="screenshot 4" src="https://github.com/nayxie/venue-event-management/assets/132120896/4b399d1d-c8d8-4c4b-856f-8758500ab6f8">
 
-## :open_file_folder: Assessment 
+## :pencil2: Assessment 
 
 pending 
 
@@ -100,7 +100,7 @@ pending
 
 pending
 
-## :pencil2: Collaborators
+## :pray: Collaborators
 - @fangxin-tang
 - @dorachenxi
 - @shulinzhaozhao
