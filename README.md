@@ -42,22 +42,50 @@ I was the `product owner` for this project, and throughtout most of the sprints 
 ## :sparkling_heart: My Contribution
 
 **Planning**
+- Completed first draft of all user stories and acceptance criteria
+- Designed and created index pages, and sidebar navigation for role-specific pages
+- Set up web app by way of the package structure
+- Modelled venue-related data in the database
 
 **Sprint 1**
+- Comepleted user story: view venue list for all users
+- Comepleted user story: view detailed venue information
+- Populated new venue data 
 
 **Sprint 2**
+- Created filter drop-down bar for venue list
+- Comepleted user story: search for venues
+- Modified Bootstrap and CSS across pages
 
 **Sprint 3**
+- Unified form style across the application
+- Comepleted user story: view bookings for customers
+- Modified venue detail page as per requirements
+- Populated data for payment table to match availability and bookings tables
 
 **Sprint 4**
+- Completed edit and delete booking, and integrated with book venue function 
+- Collaborated on user story: edit venue and space information
+- Conducted testing on all available functions 
 
 **Sprint 5**
-
+- Integrated edit/delete booking with refund function
+- Modified style across the application
+- Conducted more testing and addressed identified bugs 
 
 ## :herb: Data Model
 
-## :herb: Interface Screenshots 
+![Untitled](https://github.com/nayxie/venue-event-management/assets/132120896/f8aa7f61-4e25-405a-a78c-64327b0b8ec9)
 
+## :herb: UI Screenshots 
+
+<img width="816" alt="screenshot 1" src="https://github.com/nayxie/venue-event-management/assets/132120896/22b1998f-cf45-4921-9d10-6a4b67fc1a71">
+
+<img width="816" alt="screenshot 2" src="https://github.com/nayxie/venue-event-management/assets/132120896/9abab76a-13c7-4178-8de7-c9e6f9f68f63">
+
+<img width="816" alt="screenshot 3" src="https://github.com/nayxie/venue-event-management/assets/132120896/0c4cb22e-44ff-427e-8f94-fe347a7b2989">
+
+<img width="816" alt="screenshot 4" src="https://github.com/nayxie/venue-event-management/assets/132120896/4b399d1d-c8d8-4c4b-856f-8758500ab6f8">
 
 ## :love_letter: Assessment 
 
