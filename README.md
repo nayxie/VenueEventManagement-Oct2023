@@ -102,7 +102,7 @@ pending
 
 ## :pray: Collaborators
 - @fangxin-tang
-- @dorachenxi
+- @dorachenxiW
 - @shulinzhaozhao
 - @SimonEccleston
 
