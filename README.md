@@ -4,7 +4,7 @@ This is the second group project undertaken by myself, @fangxin-tang, @dorachenx
 
 The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
 
-I was the `product owner` for this project, and throughtout most of the sprints assumed the role of scrum master.
+I was the `product owner` for this project, and throughout most of the sprints assumed the role of scrum master.
 
 ## :tada: Functionalities
 
