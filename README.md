@@ -89,16 +89,14 @@ I was the `product owner` for this project, and throughout most of the sprints a
 
 ## :pencil2: Assessment 
 
-pending 
-
-- Overall: /100
-- Peer Review Assessment: /100
-- Project Report: /100
-- Source Code Marks: /100
+- Overall: pending/100
+- Peer Review Assessment: pending/100
+- Project Report: 90/100
+- Source Code Marks: 78/100
 
 **Examiner's feedback on source code**
 
-pending
+<img width="945" alt="Screenshot 2023-11-13 at 00 17 15" src="https://github.com/nayxie/venue-event-management/assets/132120896/9937e50e-e270-4881-bddc-e88b4ed477b9">
 
 ## :pray: Collaborators
 - @fangxin-tang
