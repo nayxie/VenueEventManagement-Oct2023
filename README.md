@@ -89,8 +89,8 @@ I was the `product owner` for this project, and throughout most of the sprints a
 
 ## :pencil2: Assessment 
 
-- Overall: pending/100
-- Peer Review Assessment: pending/100
+- Overall: 89.3/100
+- Peer Review Assessment: 100/100
 - Project Report: 90/100
 - Source Code Marks: 78/100
 
