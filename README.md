@@ -6,6 +6,9 @@ The project entailed the development of a `full-stack web application` that util
 
 I was the `product owner` for this project, and throughout most of the sprints assumed the role of scrum master.
 
+**Test accounts:** 
+admin1 (pw:admin1); planner1 (pw:planner1); customer1 (pw:customer1)
+
 ## :tada: Functionalities
 
 **Guest features** 
