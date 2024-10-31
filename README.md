@@ -76,7 +76,7 @@ admin1 (pw:admin1); planner1 (pw:planner1); customer1 (pw:customer1)
 - Modified style across the application
 - Conducted more testing and addressed identified bugs 
 
-## :earth_asia: Data Model
+## :earth_asia: Data Modelling
 
 ![Untitled](https://github.com/nayxie/venue-event-management/assets/132120896/4d5e753b-b731-4433-a68f-aa2d20059853)
 
